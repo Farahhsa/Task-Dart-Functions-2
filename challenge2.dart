@@ -6,7 +6,11 @@
  * e.g.
  * greet("Hamza") => prints "Hello Hamza"
  */
+void main(){
+  greet()
+}
 void greet(String name) {
+  print("Hello $name");
   // Your code here
 }
 
